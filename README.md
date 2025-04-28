@@ -1,0 +1,2 @@
+# ramsch
+Ramsch Coin Project
