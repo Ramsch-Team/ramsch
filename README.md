@@ -29,3 +29,19 @@ Then, like lightning, the idea of Ramsch was born.
 Ramsch is humorous and honest at the same time; Ramsch is created to make people smile.
 Ramsch will change the rules of the game, allowing holders not to take investments too seriously.
 Being part of Ramsch means being in an uplifting state.
+
+
+
+
+
+Ramsch is honest
+Ramsch is token
+Ramsch brings light,
+Ramsch is growing,
+Ramsch will expand understanding,
+Ramsch is Art,
+Ramsch is experiement,
+Ramsch leads to experience,
+Ramsch is for all who belong to the tribe,
+Ramsch is
+Ramsch now exists.
