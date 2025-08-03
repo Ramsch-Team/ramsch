@@ -45,3 +45,14 @@ Ramsch leads to experience,
 Ramsch is for all who belong to the tribe,
 Ramsch is
 Ramsch now exists.
+
+
+
+
+LP-Strategy:
+Any gains on the main-lp-funing-wallets will be added to the LPs until LP-Volume is enough fpr stable pricing.
+
+Extra:
+Ramsch is fixed. There is no taxtrap, there is no minting and there is no burning.
+
+As soon as Ramsch hits price above 15cent, the team wil start to work on the RWA-Blockchainapplication untilazing Ramsch as part of a disrupting new concept. Ramsch came with nothing and Ramsch will cause the world change.
